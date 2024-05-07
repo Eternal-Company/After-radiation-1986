@@ -2396,3 +2396,159 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.07-09.02.02:790][808]LogInterchangeEngine: [Success] Import Done
 [2024.05.07-09.02.02:991][810]LogInterchangePipeline: Display: Auto-detected normal map
 [2024.05.07-09.02.02:992][810]LogTexture: Display: Building textures: /Game/Maps/Texture/Barrier/DefaultMaterial_Normal.DefaultMaterial_Normal (BC5, 512x512 x1x1x1) (Required Memory Estimate: 47.812488 MB), EncodeSpeed: Fast
+[2024.05.07-09.03.16:917][186]LogWindowsTextInputMethodSystem: Activated input method: Російська (Росія) - (Keyboard).
+[2024.05.07-09.03.16:917][186]LogWindowsTextInputMethodSystem: Activated input method: Російська (Росія) - (Keyboard).
+[2024.05.07-09.03.18:178][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.05.07-09.03.19:684][233]LogSlate: Window 'Save Content' being destroyed
+[2024.05.07-09.03.20:902][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.07-09.03.21:825][289]LogSlate: Window 'Save Content' being destroyed
+[2024.05.07-09.03.21:881][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-09.03.22:273][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Bunker/DefaultMaterial_Alpha
+[2024.05.07-09.03.22:273][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Alpha8B0892DE42A74DEFA98CBFAF038000E4.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Bunker/DefaultMaterial_Alpha.uasset'
+[2024.05.07-09.03.22:303][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Rails/DefaultMaterial_Alpha
+[2024.05.07-09.03.22:303][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Alpha698B354E46BC9C251142DB9637D8A8B5.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Rails/DefaultMaterial_Alpha.uasset'
+[2024.05.07-09.03.22:316][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Barrier/DefaultMaterial_Alpha
+[2024.05.07-09.03.22:316][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Alpha0D8D32F046FE0FE62F9CA995323411C3.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Barrier/DefaultMaterial_Alpha.uasset'
+[2024.05.07-09.03.22:345][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/Pillars/DefaultMaterial_Alpha
+[2024.05.07-09.03.22:346][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Alpha424C59A34FA2822B44B7E98E8E56093F.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/Pillars/DefaultMaterial_Alpha.uasset'
+[2024.05.07-09.03.22:411][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/2/DefaultMaterial_Alpha
+[2024.05.07-09.03.22:412][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Alpha16DC85964CE9E6E956AE1DB387E91D2C.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/2/DefaultMaterial_Alpha.uasset'
+[2024.05.07-09.03.22:525][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Headofthedoor/DefaultMaterial_Alpha
+[2024.05.07-09.03.22:525][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_AlphaAEB2DCB04AB3EC2765179EA9240492F2.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Headofthedoor/DefaultMaterial_Alpha.uasset'
+[2024.05.07-09.03.22:683][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/2/DefaultMaterial_BaseColor
+[2024.05.07-09.03.22:683][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_BaseColor35A2126F4A105E1793C6F399DDC16578.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/2/DefaultMaterial_BaseColor.uasset'
+[2024.05.07-09.03.23:142][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Bunker/DefaultMaterial_BaseColor
+[2024.05.07-09.03.23:142][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_BaseColor4A15777E4F207AEAF17030A5F1F7B086.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Bunker/DefaultMaterial_BaseColor.uasset'
+[2024.05.07-09.03.23:258][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/Pillars/DefaultMaterial_BaseColor
+[2024.05.07-09.03.23:258][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_BaseColorC7441562405CF46D2C5386BDD02B1FD6.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/Pillars/DefaultMaterial_BaseColor.uasset'
+[2024.05.07-09.03.23:711][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Headofthedoor/DefaultMaterial_BaseColor
+[2024.05.07-09.03.23:711][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_BaseColorFC37CFB24828584294A4E3A2A7CC1E58.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Headofthedoor/DefaultMaterial_BaseColor.uasset'
+[2024.05.07-09.03.23:753][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Barrier/DefaultMaterial_BaseColor
+[2024.05.07-09.03.23:753][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_BaseColorCEAE5D114B4CFE4DE2578392D339FCAC.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Barrier/DefaultMaterial_BaseColor.uasset'
+[2024.05.07-09.03.23:869][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Rails/DefaultMaterial_BaseColor
+[2024.05.07-09.03.23:870][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_BaseColor6225FB2E4912DBE89B34BCAD67FAFEE7.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Rails/DefaultMaterial_BaseColor.uasset'
+[2024.05.07-09.03.24:019][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Bunker/DefaultMaterial_Displacement
+[2024.05.07-09.03.24:019][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Displacement6847CE5540F77BEA97F32AA044A622CB.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Bunker/DefaultMaterial_Displacement.uasset'
+[2024.05.07-09.03.24:140][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Headofthedoor/DefaultMaterial_Displacement
+[2024.05.07-09.03.24:141][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Displacement199643134C2F8AB532C1E186E80A0A59.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Headofthedoor/DefaultMaterial_Displacement.uasset'
+[2024.05.07-09.03.24:175][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Rails/DefaultMaterial_Displacement
+[2024.05.07-09.03.24:175][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Displacement81E45D144DAE3E787D0F17AA6DC007A5.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Rails/DefaultMaterial_Displacement.uasset'
+[2024.05.07-09.03.24:218][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/Pillars/DefaultMaterial_Displacement
+[2024.05.07-09.03.24:218][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Displacement117F3A714D9E52D257225CADA21E5614.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/Pillars/DefaultMaterial_Displacement.uasset'
+[2024.05.07-09.03.24:280][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/2/DefaultMaterial_Displacement
+[2024.05.07-09.03.24:280][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Displacement5382C226447AFE0102843C96F924DDDE.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/2/DefaultMaterial_Displacement.uasset'
+[2024.05.07-09.03.24:303][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Barrier/DefaultMaterial_Displacement
+[2024.05.07-09.03.24:304][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_DisplacementAB3F67704A027C011EE8B8B67BA0A990.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Barrier/DefaultMaterial_Displacement.uasset'
+[2024.05.07-09.03.24:331][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/2/DefaultMaterial_Emission
+[2024.05.07-09.03.24:331][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Emission69E1BCBB4A8ACA4C983C8F9BA4C07DEC.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/2/DefaultMaterial_Emission.uasset'
+[2024.05.07-09.03.24:357][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Rails/DefaultMaterial_Emission
+[2024.05.07-09.03.24:358][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Emission75262AA24B24435D93F1ECA626EF1AD4.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Rails/DefaultMaterial_Emission.uasset'
+[2024.05.07-09.03.24:446][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/Pillars/DefaultMaterial_Emission
+[2024.05.07-09.03.24:447][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_EmissionD87EDA844CC6BEBFEB5453A1817BD44F.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/Pillars/DefaultMaterial_Emission.uasset'
+[2024.05.07-09.03.24:670][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Bunker/DefaultMaterial_Emission
+[2024.05.07-09.03.24:671][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_EmissionE2182A4E4E8B2DADA4039983234D1CD0.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Bunker/DefaultMaterial_Emission.uasset'
+[2024.05.07-09.03.24:772][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Headofthedoor/DefaultMaterial_Emission
+[2024.05.07-09.03.24:773][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_EmissionF90E21954401406AAD878DB79C52BCD9.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Headofthedoor/DefaultMaterial_Emission.uasset'
+[2024.05.07-09.03.24:785][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Barrier/DefaultMaterial_Emission
+[2024.05.07-09.03.24:785][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_EmissionBFC997CB4EDFFD7D7BB000AC989D042E.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Barrier/DefaultMaterial_Emission.uasset'
+[2024.05.07-09.03.24:811][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Barrier/DefaultMaterial_Metallic
+[2024.05.07-09.03.24:811][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_MetallicB60B463A47144D83673F78AC151E7BAE.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Barrier/DefaultMaterial_Metallic.uasset'
+[2024.05.07-09.03.24:841][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/2/DefaultMaterial_Metallic
+[2024.05.07-09.03.24:841][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Metallic0F8051254489A859143718849B7EDB1C.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/2/DefaultMaterial_Metallic.uasset'
+[2024.05.07-09.03.24:874][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Rails/DefaultMaterial_Metallic
+[2024.05.07-09.03.24:874][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Metallic4C6193264C1DA27BE2EDF38DB9265AEC.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Rails/DefaultMaterial_Metallic.uasset'
+[2024.05.07-09.03.25:016][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Headofthedoor/DefaultMaterial_Metallic
+[2024.05.07-09.03.25:016][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Metallic3A00970E4DDFDB6BDDCCFC82EF10C7C5.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Headofthedoor/DefaultMaterial_Metallic.uasset'
+[2024.05.07-09.03.25:071][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/Pillars/DefaultMaterial_Metallic
+[2024.05.07-09.03.25:071][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_MetallicE971A8B845BB1EA3423A298CE85BC6C4.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/Pillars/DefaultMaterial_Metallic.uasset'
+[2024.05.07-09.03.25:173][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Bunker/DefaultMaterial_Metallic
+[2024.05.07-09.03.25:173][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_MetallicA03E41E14BA0441527197D8858C87EEC.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Bunker/DefaultMaterial_Metallic.uasset'
+[2024.05.07-09.03.25:695][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Headofthedoor/DefaultMaterial_Normal
+[2024.05.07-09.03.25:695][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Normal8AD059F44CFEF1FC52BD85BE89BB3ABC.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Headofthedoor/DefaultMaterial_Normal.uasset'
+[2024.05.07-09.03.25:821][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Rails/DefaultMaterial_Normal
+[2024.05.07-09.03.25:821][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Normal3A5C866144DCF7BF6787609FFA1B42D9.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Rails/DefaultMaterial_Normal.uasset'
+[2024.05.07-09.03.26:358][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Bunker/DefaultMaterial_Normal
+[2024.05.07-09.03.26:358][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Normal08C32228415AFC29EFB982A547E0A0B8.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Bunker/DefaultMaterial_Normal.uasset'
+[2024.05.07-09.03.26:402][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Barrier/DefaultMaterial_Normal
+[2024.05.07-09.03.26:402][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Normal7695DBEF43537A8024FFDC9FB0227A40.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Barrier/DefaultMaterial_Normal.uasset'
+[2024.05.07-09.03.26:579][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/2/DefaultMaterial_Normal
+[2024.05.07-09.03.26:579][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_NormalA8B17A6545E07C8D201EBA9BA4CE1F1C.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/2/DefaultMaterial_Normal.uasset'
+[2024.05.07-09.03.26:719][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/Pillars/DefaultMaterial_Normal
+[2024.05.07-09.03.26:719][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Normal3E534B7E4DE88851F5D26F9FA0AF5D75.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/Pillars/DefaultMaterial_Normal.uasset'
+[2024.05.07-09.03.26:865][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Bunker/DefaultMaterial_Roughness
+[2024.05.07-09.03.26:865][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_RoughnessF9A8F65E4C0BD15DCABEC6B18559429B.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Bunker/DefaultMaterial_Roughness.uasset'
+[2024.05.07-09.03.26:887][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Barrier/DefaultMaterial_Roughness
+[2024.05.07-09.03.26:887][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_RoughnessD1FC1B584CFA5B5946DA7A9BB6244825.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Barrier/DefaultMaterial_Roughness.uasset'
+[2024.05.07-09.03.26:932][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Rails/DefaultMaterial_Roughness
+[2024.05.07-09.03.26:932][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Roughness4B94D0824A096FA959AEB2B4CCE5A8D2.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Rails/DefaultMaterial_Roughness.uasset'
+[2024.05.07-09.03.27:098][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Headofthedoor/DefaultMaterial_Roughness
+[2024.05.07-09.03.27:098][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Roughness23D1322948DA549097C79ABCA732B8A6.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Headofthedoor/DefaultMaterial_Roughness.uasset'
+[2024.05.07-09.03.27:173][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/2/DefaultMaterial_Roughness
+[2024.05.07-09.03.27:173][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Roughness3891E58B44E96FC91D4157B484E0AB99.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/2/DefaultMaterial_Roughness.uasset'
+[2024.05.07-09.03.27:217][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/Pillars/DefaultMaterial_Roughness
+[2024.05.07-09.03.27:217][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/DefaultMaterial_Roughness046B72CA47810288510565B10E65D5E9.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/Pillars/DefaultMaterial_Roughness.uasset'
+[2024.05.07-09.03.27:246][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/1/Material_001_Alpha
+[2024.05.07-09.03.27:247][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Material_001_AlphaB833ACF14B0497BAE5702593E7703B67.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/1/Material_001_Alpha.uasset'
+[2024.05.07-09.03.27:368][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/1/Material_001_BaseColor
+[2024.05.07-09.03.27:368][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Material_001_BaseColorB4408DE84D17E3313D970DB8C52DEFF0.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/1/Material_001_BaseColor.uasset'
+[2024.05.07-09.03.27:419][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/1/Material_001_Displacement
+[2024.05.07-09.03.27:420][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Material_001_Displacement9FD39411456582BF6F82ADBE5A1E2A07.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/1/Material_001_Displacement.uasset'
+[2024.05.07-09.03.27:449][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/1/Material_001_Emission
+[2024.05.07-09.03.27:449][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Material_001_Emission68D491EC4CF0EBF82ED06B99002F4219.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/1/Material_001_Emission.uasset'
+[2024.05.07-09.03.27:476][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/1/Material_001_Metallic
+[2024.05.07-09.03.27:477][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Material_001_Metallic5F46477E4E95703E3EF305BC4D7CAF2C.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/1/Material_001_Metallic.uasset'
+[2024.05.07-09.03.27:604][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/1/Material_001_Normal
+[2024.05.07-09.03.27:604][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Material_001_NormalD5A9DF2349C7B78DC99DB79F09D9CD12.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/1/Material_001_Normal.uasset'
+[2024.05.07-09.03.27:683][289]LogSavePackage: Moving output files for package: /Game/Maps/Texture/Wals/1/Material_001_Roughness
+[2024.05.07-09.03.27:683][289]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Material_001_RoughnessC62C0AED404B9C63F3A982B492995E81.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Texture/Wals/1/Material_001_Roughness.uasset'
+[2024.05.07-09.03.27:691][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.80 sec (total: 3:33 min)
+[2024.05.07-09.03.27:707][289]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Barrier/DefaultMaterial_Normal.DefaultMaterial_Normal
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Barrier/DefaultMaterial_Metallic.DefaultMaterial_Metallic
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Barrier/DefaultMaterial_Emission.DefaultMaterial_Emission
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Barrier/DefaultMaterial_Displacement.DefaultMaterial_Displacement
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Barrier/DefaultMaterial_BaseColor.DefaultMaterial_BaseColor
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Barrier/DefaultMaterial_Alpha.DefaultMaterial_Alpha
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Barrier/DefaultMaterial_Roughness.DefaultMaterial_Roughness
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/Pillars/DefaultMaterial_Normal.DefaultMaterial_Normal
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/Pillars/DefaultMaterial_Metallic.DefaultMaterial_Metallic
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/Pillars/DefaultMaterial_Emission.DefaultMaterial_Emission
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/Pillars/DefaultMaterial_Displacement.DefaultMaterial_Displacement
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/Pillars/DefaultMaterial_BaseColor.DefaultMaterial_BaseColor
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/Pillars/DefaultMaterial_Alpha.DefaultMaterial_Alpha
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/Pillars/DefaultMaterial_Roughness.DefaultMaterial_Roughness
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/2/DefaultMaterial_Normal.DefaultMaterial_Normal
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/2/DefaultMaterial_Metallic.DefaultMaterial_Metallic
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/2/DefaultMaterial_Emission.DefaultMaterial_Emission
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/2/DefaultMaterial_Displacement.DefaultMaterial_Displacement
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/2/DefaultMaterial_BaseColor.DefaultMaterial_BaseColor
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/2/DefaultMaterial_Alpha.DefaultMaterial_Alpha
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/2/DefaultMaterial_Roughness.DefaultMaterial_Roughness
+[2024.05.07-09.03.27:707][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/1/Material_001_Normal.Material_001_Normal
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/1/Material_001_Metallic.Material_001_Metallic
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/1/Material_001_Emission.Material_001_Emission
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/1/Material_001_Displacement.Material_001_Displacement
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/1/Material_001_BaseColor.Material_001_BaseColor
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/1/Material_001_Alpha.Material_001_Alpha
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Wals/1/Material_001_Roughness.Material_001_Roughness
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Rails/DefaultMaterial_Roughness.DefaultMaterial_Roughness
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Rails/DefaultMaterial_Normal.DefaultMaterial_Normal
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Rails/DefaultMaterial_Metallic.DefaultMaterial_Metallic
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Rails/DefaultMaterial_Emission.DefaultMaterial_Emission
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Rails/DefaultMaterial_Displacement.DefaultMaterial_Displacement
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Rails/DefaultMaterial_BaseColor.DefaultMaterial_BaseColor
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Rails/DefaultMaterial_Alpha.DefaultMaterial_Alpha
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Headofthedoor/DefaultMaterial_Normal.DefaultMaterial_Normal
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Headofthedoor/DefaultMaterial_Metallic.DefaultMaterial_Metallic
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Headofthedoor/DefaultMaterial_Emission.DefaultMaterial_Emission
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Headofthedoor/DefaultMaterial_Displacement.DefaultMaterial_Displacement
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Headofthedoor/DefaultMaterial_BaseColor.DefaultMaterial_BaseColor
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Headofthedoor/DefaultMaterial_Alpha.DefaultMaterial_Alpha
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Bunker/DefaultMaterial_Roughness.DefaultMaterial_Roughness
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Headofthedoor/DefaultMaterial_Roughness.DefaultMaterial_Roughness
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Bunker/DefaultMaterial_BaseColor.DefaultMaterial_BaseColor
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Bunker/DefaultMaterial_Normal.DefaultMaterial_Normal
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Bunker/DefaultMaterial_Metallic.DefaultMaterial_Metallic
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Bunker/DefaultMaterial_Emission.DefaultMaterial_Emission
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Bunker/DefaultMaterial_Displacement.DefaultMaterial_Displacement
+[2024.05.07-09.03.27:708][289]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Maps/Texture/Bunker/DefaultMaterial_Alpha.DefaultMaterial_Alpha
