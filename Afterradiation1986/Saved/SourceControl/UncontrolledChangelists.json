@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/MainMaps.umap",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cube_012.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cube_038.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cube_050.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cube_054.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cube_055.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cube_058.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cube_061.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cube_063.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cube_067.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cube_072.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cube_075.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cube_077.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cube_080.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cube_083.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cube_084.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cube_085.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cylinder_015.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cylinder_016.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cylinder_017.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cylinder_018.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cylinder_029.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cylinder_030.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cylinder_032.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Bunker-map_Cylinder_033.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/doors.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Material.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Material_001.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Material_002.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Material_003.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Material_004.uasset",
+				"D:/Unity/After-radiation-1986/Afterradiation1986/Content/Maps/Modelling/Material_005.uasset"
+			]
+		}
+	]
+}
