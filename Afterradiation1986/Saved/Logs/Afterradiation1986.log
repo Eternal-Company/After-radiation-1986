@@ -1348,3 +1348,17 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.08-16.47.14:655][366]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms
 [2024.05.08-16.47.14:662][366]AssetCheck: New page: Asset Save: MainMaps
 [2024.05.08-16.47.14:662][366]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MainMaps.MainMaps
+[2024.05.08-16.48.57:276][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.05.08-16.48.58:966][831]LogSlate: Window 'Save Content' being destroyed
+[2024.05.08-16.48.58:979][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.08-16.48.59:058][831]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/ElVolodya/Box_706A7BDD
+[2024.05.08-16.48.59:059][831]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Box_706A7BDDEA686A394019F884DBEA40A513F59E87.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/_GENERATED/ElVolodya/Box_706A7BDD.uasset'
+[2024.05.08-16.48.59:134][831]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/ElVolodya/Box_8C6BE4F1
+[2024.05.08-16.48.59:134][831]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Box_8C6BE4F1068AE80B4B90EDC4D14B89BCBEFEBB73.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/_GENERATED/ElVolodya/Box_8C6BE4F1.uasset'
+[2024.05.08-16.48.59:140][831]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/ElVolodya/Box_EE7B55E5
+[2024.05.08-16.48.59:140][831]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Box_EE7B55E58D7114A640492BD9A348F08655F85F34.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Content/Maps/_GENERATED/ElVolodya/Box_EE7B55E5.uasset'
+[2024.05.08-16.48.59:177][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 397 ms)
+[2024.05.08-16.48.59:183][831]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.08-16.48.59:183][831]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Maps/_GENERATED/ElVolodya/Box_8C6BE4F1.Box_8C6BE4F1
+[2024.05.08-16.48.59:183][831]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Maps/_GENERATED/ElVolodya/Box_706A7BDD.Box_706A7BDD
+[2024.05.08-16.48.59:183][831]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Maps/_GENERATED/ElVolodya/Box_EE7B55E5.Box_EE7B55E5
