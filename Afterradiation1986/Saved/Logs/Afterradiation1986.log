@@ -2864,3 +2864,93 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2024.05.10-15.19.47:021][473]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modeling/Character/Material/Material_001.Material_001
 [2024.05.10-15.19.47:021][473]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modeling/Character/Material/Material_006.Material_006
 [2024.05.10-15.19.47:021][473]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modeling/Character/Material/Material_003.Material_003
+[2024.05.10-15.25.36:849][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.10-15.25.36:853][761]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMaps' took 0.021
+[2024.05.10-15.25.36:854][761]OBJ SavePackage: Generating thumbnails for [8] asset(s) in package [/Game/Modeling/Character/main_hero] ([8] browsable assets)...
+[2024.05.10-15.25.36:881][761]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Modeling/Character/main_hero.main_hero_Retopo_Sphere_002]
+[2024.05.10-15.25.36:895][761]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Modeling/Character/main_hero.main_hero_Retopo_Sphere_005]
+[2024.05.10-15.25.36:911][761]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Modeling/Character/main_hero.main_hero_Retopo_Mesh_001]
+[2024.05.10-15.25.36:926][761]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Modeling/Character/main_hero.main_hero_Mesh_002]
+[2024.05.10-15.25.36:942][761]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Modeling/Character/main_hero.main_hero_Retopo_Mesh_003]
+[2024.05.10-15.25.36:960][761]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Modeling/Character/main_hero.main_hero_Retopo_Mesh_004]
+[2024.05.10-15.25.36:975][761]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Modeling/Character/main_hero.main_hero_Icosphere_002]
+[2024.05.10-15.25.36:991][761]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Modeling/Character/main_hero.main_hero_Retopo_hair-1]
+[2024.05.10-15.25.36:991][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling/Character/main_hero]
+[2024.05.10-15.25.37:598][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modeling/Character/main_hero_Auto3
+[2024.05.10-15.25.37:598][761]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/main_hero_Auto3A36D84434C62BD17E639A6ABC48E7930.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Autosaves/Game/Modeling/Character/main_hero_Auto3.uasset'
+[2024.05.10-15.25.37:599][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modeling/Character/main_hero_Icosphere_002_Skeleton] ([1] browsable assets)...
+[2024.05.10-15.25.37:616][761]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Modeling/Character/main_hero_Icosphere_002_Skeleton.main_hero_Icosphere_002_Skeleton]
+[2024.05.10-15.25.37:616][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling/Character/main_hero_Icosphere_002_Skeleton]
+[2024.05.10-15.25.37:649][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modeling/Character/main_hero_Icosphere_002_Skeleton_Auto3
+[2024.05.10-15.25.37:649][761]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/main_hero_Icosphere_002_Skeleton9EA60E3C4FA5444E2B242F9C91E30A5F.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Autosaves/Game/Modeling/Character/main_hero_Icosphere_002_Skeleton_Auto3.uasset'
+[2024.05.10-15.25.37:650][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modeling/Character/main_hero_Retopo_Sphere_002_Skeleton] ([1] browsable assets)...
+[2024.05.10-15.25.37:668][761]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Modeling/Character/main_hero_Retopo_Sphere_002_Skeleton.main_hero_Retopo_Sphere_002_Skeleton]
+[2024.05.10-15.25.37:668][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling/Character/main_hero_Retopo_Sphere_002_Skeleton]
+[2024.05.10-15.25.37:671][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modeling/Character/main_hero_Retopo_Sphere_002_Skeleton_Auto3
+[2024.05.10-15.25.37:671][761]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/main_hero_Retopo_Sphere_002_Skel8C3AD30D446A92CF5B8AABB589B310BB.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Autosaves/Game/Modeling/Character/main_hero_Retopo_Sphere_002_Skeleton_Auto3.uasset'
+[2024.05.10-15.25.37:672][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modeling/Character/main_hero_Retopo_Sphere_002_PhysicsAsset] ([1] browsable assets)...
+[2024.05.10-15.25.37:688][761]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Modeling/Character/main_hero_Retopo_Sphere_002_PhysicsAsset.main_hero_Retopo_Sphere_002_PhysicsAsset]
+[2024.05.10-15.25.37:689][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling/Character/main_hero_Retopo_Sphere_002_PhysicsAsset]
+[2024.05.10-15.25.37:692][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modeling/Character/main_hero_Retopo_Sphere_002_PhysicsAsset_Auto3
+[2024.05.10-15.25.37:692][761]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/main_hero_Retopo_Sphere_002_PhysFF472EB944BB1CA18130D5AD477EDE0C.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Autosaves/Game/Modeling/Character/main_hero_Retopo_Sphere_002_PhysicsAsset_Auto3.uasset'
+[2024.05.10-15.25.37:743][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modeling/Character/main_hero_Retopo_Sphere_005_Skeleton] ([1] browsable assets)...
+[2024.05.10-15.25.37:760][761]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Modeling/Character/main_hero_Retopo_Sphere_005_Skeleton.main_hero_Retopo_Sphere_005_Skeleton]
+[2024.05.10-15.25.37:761][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling/Character/main_hero_Retopo_Sphere_005_Skeleton]
+[2024.05.10-15.25.37:764][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modeling/Character/main_hero_Retopo_Sphere_005_Skeleton_Auto3
+[2024.05.10-15.25.37:764][761]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/main_hero_Retopo_Sphere_005_Skel4B34F46D4F08C13E4560A2B87923F2CE.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Autosaves/Game/Modeling/Character/main_hero_Retopo_Sphere_005_Skeleton_Auto3.uasset'
+[2024.05.10-15.25.37:766][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modeling/Character/main_hero_Retopo_Sphere_005_PhysicsAsset] ([1] browsable assets)...
+[2024.05.10-15.25.37:780][761]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Modeling/Character/main_hero_Retopo_Sphere_005_PhysicsAsset.main_hero_Retopo_Sphere_005_PhysicsAsset]
+[2024.05.10-15.25.37:780][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling/Character/main_hero_Retopo_Sphere_005_PhysicsAsset]
+[2024.05.10-15.25.37:799][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modeling/Character/main_hero_Retopo_Sphere_005_PhysicsAsset_Auto3
+[2024.05.10-15.25.37:799][761]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/main_hero_Retopo_Sphere_005_Phys2C44AA754DBDC9F6C3FEDAB78D38D545.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Autosaves/Game/Modeling/Character/main_hero_Retopo_Sphere_005_PhysicsAsset_Auto3.uasset'
+[2024.05.10-15.25.37:801][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modeling/Character/main_hero_Retopo_Mesh_004_Skeleton] ([1] browsable assets)...
+[2024.05.10-15.25.37:818][761]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Modeling/Character/main_hero_Retopo_Mesh_004_Skeleton.main_hero_Retopo_Mesh_004_Skeleton]
+[2024.05.10-15.25.37:818][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling/Character/main_hero_Retopo_Mesh_004_Skeleton]
+[2024.05.10-15.25.37:823][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modeling/Character/main_hero_Retopo_Mesh_004_Skeleton_Auto3
+[2024.05.10-15.25.37:824][761]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/main_hero_Retopo_Mesh_004_SkeletE2F3D48B409539D7944E189A0AE4DAB0.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Autosaves/Game/Modeling/Character/main_hero_Retopo_Mesh_004_Skeleton_Auto3.uasset'
+[2024.05.10-15.25.37:825][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modeling/Character/main_hero_Retopo_Mesh_001_Skeleton] ([1] browsable assets)...
+[2024.05.10-15.25.37:841][761]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Modeling/Character/main_hero_Retopo_Mesh_001_Skeleton.main_hero_Retopo_Mesh_001_Skeleton]
+[2024.05.10-15.25.37:842][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling/Character/main_hero_Retopo_Mesh_001_Skeleton]
+[2024.05.10-15.25.37:845][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modeling/Character/main_hero_Retopo_Mesh_001_Skeleton_Auto3
+[2024.05.10-15.25.37:845][761]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/main_hero_Retopo_Mesh_001_Skelet4CFB1EC8427FD9EA48B9578D85BC675A.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Autosaves/Game/Modeling/Character/main_hero_Retopo_Mesh_001_Skeleton_Auto3.uasset'
+[2024.05.10-15.25.37:846][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modeling/Character/main_hero_Retopo_Mesh_001_PhysicsAsset] ([1] browsable assets)...
+[2024.05.10-15.25.37:861][761]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Modeling/Character/main_hero_Retopo_Mesh_001_PhysicsAsset.main_hero_Retopo_Mesh_001_PhysicsAsset]
+[2024.05.10-15.25.37:861][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling/Character/main_hero_Retopo_Mesh_001_PhysicsAsset]
+[2024.05.10-15.25.37:864][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modeling/Character/main_hero_Retopo_Mesh_001_PhysicsAsset_Auto3
+[2024.05.10-15.25.37:865][761]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/main_hero_Retopo_Mesh_001_Physic5DB8546F4C6FF4B3389EB58EAA66CC85.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Autosaves/Game/Modeling/Character/main_hero_Retopo_Mesh_001_PhysicsAsset_Auto3.uasset'
+[2024.05.10-15.25.37:866][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modeling/Character/main_hero_Retopo_Mesh_004_PhysicsAsset] ([1] browsable assets)...
+[2024.05.10-15.25.37:880][761]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Modeling/Character/main_hero_Retopo_Mesh_004_PhysicsAsset.main_hero_Retopo_Mesh_004_PhysicsAsset]
+[2024.05.10-15.25.37:880][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling/Character/main_hero_Retopo_Mesh_004_PhysicsAsset]
+[2024.05.10-15.25.37:903][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modeling/Character/main_hero_Retopo_Mesh_004_PhysicsAsset_Auto3
+[2024.05.10-15.25.37:903][761]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/main_hero_Retopo_Mesh_004_PhysicF3D0D5B441A83DEFFC5569B1D3D7EF05.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Autosaves/Game/Modeling/Character/main_hero_Retopo_Mesh_004_PhysicsAsset_Auto3.uasset'
+[2024.05.10-15.25.37:904][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modeling/Character/main_hero_Mesh_002_Skeleton] ([1] browsable assets)...
+[2024.05.10-15.25.37:920][761]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Modeling/Character/main_hero_Mesh_002_Skeleton.main_hero_Mesh_002_Skeleton]
+[2024.05.10-15.25.37:921][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling/Character/main_hero_Mesh_002_Skeleton]
+[2024.05.10-15.25.37:966][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modeling/Character/main_hero_Mesh_002_Skeleton_Auto3
+[2024.05.10-15.25.37:966][761]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/main_hero_Mesh_002_Skeleton_Auto3F400CBE4064165610D37C955605C164.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Autosaves/Game/Modeling/Character/main_hero_Mesh_002_Skeleton_Auto3.uasset'
+[2024.05.10-15.25.37:967][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modeling/Character/main_hero_Mesh_002_PhysicsAsset] ([1] browsable assets)...
+[2024.05.10-15.25.37:990][761]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Modeling/Character/main_hero_Mesh_002_PhysicsAsset.main_hero_Mesh_002_PhysicsAsset]
+[2024.05.10-15.25.37:990][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling/Character/main_hero_Mesh_002_PhysicsAsset]
+[2024.05.10-15.25.37:993][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modeling/Character/main_hero_Mesh_002_PhysicsAsset_Auto3
+[2024.05.10-15.25.37:994][761]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/main_hero_Mesh_002_PhysicsAsset_BE7FEE8A4C8D558415B7B5B4BAEE1CEC.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Autosaves/Game/Modeling/Character/main_hero_Mesh_002_PhysicsAsset_Auto3.uasset'
+[2024.05.10-15.25.37:995][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modeling/Character/main_hero_Retopo_Mesh_003_Skeleton] ([1] browsable assets)...
+[2024.05.10-15.25.38:012][761]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Modeling/Character/main_hero_Retopo_Mesh_003_Skeleton.main_hero_Retopo_Mesh_003_Skeleton]
+[2024.05.10-15.25.38:012][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling/Character/main_hero_Retopo_Mesh_003_Skeleton]
+[2024.05.10-15.25.38:015][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modeling/Character/main_hero_Retopo_Mesh_003_Skeleton_Auto3
+[2024.05.10-15.25.38:015][761]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/main_hero_Retopo_Mesh_003_Skelet8CEE9F7C42261ED16D00BD839314F53E.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Autosaves/Game/Modeling/Character/main_hero_Retopo_Mesh_003_Skeleton_Auto3.uasset'
+[2024.05.10-15.25.38:017][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modeling/Character/main_hero_Retopo_Mesh_003_PhysicsAsset] ([1] browsable assets)...
+[2024.05.10-15.25.38:032][761]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Modeling/Character/main_hero_Retopo_Mesh_003_PhysicsAsset.main_hero_Retopo_Mesh_003_PhysicsAsset]
+[2024.05.10-15.25.38:033][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling/Character/main_hero_Retopo_Mesh_003_PhysicsAsset]
+[2024.05.10-15.25.38:038][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modeling/Character/main_hero_Retopo_Mesh_003_PhysicsAsset_Auto3
+[2024.05.10-15.25.38:038][761]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/main_hero_Retopo_Mesh_003_Physic43EE559644DBE34498A07491A333966E.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Autosaves/Game/Modeling/Character/main_hero_Retopo_Mesh_003_PhysicsAsset_Auto3.uasset'
+[2024.05.10-15.25.38:039][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modeling/Character/main_hero_Retopo_hair-1_Skeleton] ([1] browsable assets)...
+[2024.05.10-15.25.38:057][761]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Modeling/Character/main_hero_Retopo_hair-1_Skeleton.main_hero_Retopo_hair-1_Skeleton]
+[2024.05.10-15.25.38:057][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling/Character/main_hero_Retopo_hair-1_Skeleton]
+[2024.05.10-15.25.38:060][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modeling/Character/main_hero_Retopo_hair-1_Skeleton_Auto3
+[2024.05.10-15.25.38:060][761]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/main_hero_Retopo_hair-1_Skeleton0733261945BBBD61AF4267B42FAD156B.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Autosaves/Game/Modeling/Character/main_hero_Retopo_hair-1_Skeleton_Auto3.uasset'
+[2024.05.10-15.25.38:061][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modeling/Character/main_hero_Retopo_hair-1_PhysicsAsset] ([1] browsable assets)...
+[2024.05.10-15.25.38:076][761]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Modeling/Character/main_hero_Retopo_hair-1_PhysicsAsset.main_hero_Retopo_hair-1_PhysicsAsset]
+[2024.05.10-15.25.38:076][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modeling/Character/main_hero_Retopo_hair-1_PhysicsAsset]
+[2024.05.10-15.25.38:080][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modeling/Character/main_hero_Retopo_hair-1_PhysicsAsset_Auto3
+[2024.05.10-15.25.38:080][761]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/main_hero_Retopo_hair-1_PhysicsADC1218044131AAD90EF3939DAA2D656A.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Autosaves/Game/Modeling/Character/main_hero_Retopo_hair-1_PhysicsAsset_Auto3.uasset'
+[2024.05.10-15.25.38:081][761]LogFileHelpers: Auto-saving content packages took 1.228
