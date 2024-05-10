@@ -2954,3 +2954,4 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2024.05.10-15.25.38:080][761]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modeling/Character/main_hero_Retopo_hair-1_PhysicsAsset_Auto3
 [2024.05.10-15.25.38:080][761]LogSavePackage: Moving '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/main_hero_Retopo_hair-1_PhysicsADC1218044131AAD90EF3939DAA2D656A.tmp' to '../../../../../../Unity/After-radiation-1986/Afterradiation1986/Saved/Autosaves/Game/Modeling/Character/main_hero_Retopo_hair-1_PhysicsAsset_Auto3.uasset'
 [2024.05.10-15.25.38:081][761]LogFileHelpers: Auto-saving content packages took 1.228
+[2024.05.10-15.29.59:979][548]LogDerivedDataCache: C:/Users/vovae/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.645 and deleted 0 files with total size 0 MiB. Scanned 6660 files in 6547 folders with total size 199 MiB.
